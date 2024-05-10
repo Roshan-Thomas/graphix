@@ -1,14 +1,9 @@
-# Style
 black==24.4.0
 isort==5.13.2
-
-# Tests
 pytest
 pytest-mock
 pytest-cov
 tox
-
-# Optional dependencies
 qiskit>=1.0
 qiskit-aer
 rustworkx
